@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JugadorPartido</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="anadir_jugador">Añadir jugador</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Telefono</string>
+    <string name="fnacimiento">Fecha de nacimiento</string>
+    <string name="btVer">Ver</string>
+    <string name="btAlta">Alta</string>
+
+</resources>
